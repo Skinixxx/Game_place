@@ -37,7 +37,7 @@
 
 [^0]: [Методика 5W](https://github.com/user-attachments/files/17271020/2_.docx)
 
-[^1]: ![image](https://github.com/user-attachments/assets/0e645ea6-1527-4735-9c62-bad1bc7066c1)
+[^1]: ![image](https://github.com/user-attachments/assets/119edebb-0203-424f-adb5-471f63f57a0a)
 [^2]: ![image](https://github.com/user-attachments/assets/ba364c5a-5d00-41ad-a578-4aacac472f84)
 [^3]: ![image](https://github.com/user-attachments/assets/8b8f2ae2-9090-4d57-b843-9fac04011582)
 [^4]: ![image](https://github.com/user-attachments/assets/34c8b223-40dd-4cdc-8484-42849081f616)
